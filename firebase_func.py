@@ -1,10 +1,10 @@
 from firebase import firebase
 import requests
 import json
-#,'fK49gDbiTruz6DYR5k7uEE:APA91bFRFETnSxSZZjyEY6N2GvyTWH_kO3ua_DyBGOGwIe55k-HOnTrYB5NYs6F3K_lGO8XxNHeHDhVkluoQEft7zop-tGoWPFLBnmFt2ZmnYq914R3H5WWuo0rHBowFxOMU4gy2mS1B'
-fbcon = firebase.FirebaseApplication('https://test-python-8ba80.firebaseio.com/', None)
-deviceToken = ['eX9ziyxDQVWr15rukPJDyK:APA91bGMD6KtWu1-Yg_WzlxPxRk5mBSZYzZWtJKa-5zp9r99_FUMZe3e12ECyKEk_ioRo6zBywUe7XRkw-Xt-3XmfSRi_hvhARDhqpQVZzklNg4xOv72phs1I-LWk3LOjqLDSdILL2mL','fK49gDbiTruz6DYR5k7uEE:APA91bFRFETnSxSZZjyEY6N2GvyTWH_kO3ua_DyBGOGwIe55k-HOnTrYB5NYs6F3K_lGO8XxNHeHDhVkluoQEft7zop-tGoWPFLBnmFt2ZmnYq914R3H5WWuo0rHBowFxOMU4gy2mS1B']
-serverToken = 'AAAABBwr4zs:APA91bHkBPE2N8dveruc__fH4DgMqoGs1jx5xPd0kNRBONHxt04jcXhLZQJr4arpjP7hOVttEsVQZGOMBCgn-xsz412tUSeLKW1-TjaODIXJAQS0rphXINCzvdoUFsDa_xcEHgdvZTkc'
+
+fbcon = firebase.FirebaseApplication('path database firebase', None)
+deviceToken = ['devicetoken1','devicetoken2']
+serverToken = 'servertoken'
 
 class FirebaseFunc():
         
