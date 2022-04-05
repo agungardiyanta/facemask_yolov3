@@ -6,9 +6,9 @@ if the total people is more than the capacity limit in the android app then fire
 The main counter program in this repo is an adaptation of https://www.pyimagesearch.com/2018/08/13/opencv-people-counter/
 
 screenshot from raspberry while processing video capture from module camera
-![alt text](https://github.com/agungardiyanta/facemask_yolov3/blob/main/githubgambar.png)
+![alt text](https://github.com/agungardiyanta/facemask_yolov3/blob/main/githubgambar.png)  
 
-screenshot alert notification in Dashboard android app
-![alt text](https://github.com/agungardiyanta/facemask_yolov3/blob/main/githubgambar2.png)
+screenshot alert notification in Dashboard android app  
+![alt text](https://github.com/agungardiyanta/facemask_yolov3/blob/main/githubgambar2.png)  
 
 repos for Dashboard app https://github.com/agungardiyanta/Dashboard
